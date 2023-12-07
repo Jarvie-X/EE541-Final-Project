@@ -1,0 +1,16 @@
+915
+Epoch [47/50] Loss: 0.0023;  Train SNR: 21.6976 Valid SNR: 21.2709;  Train PSNR: 28.0299 Valid PSNR: 27.7977;  Train SSIM: 0.9021 Valid SSIM: 0.8988
+Epoch [48/50] Loss: 0.0012;  Train SNR: 21.6602 Valid SNR: 21.2409;  Train PSNR: 27.9925 Valid PSNR: 27.7677;  Train SSIM: 0.9008 Valid SSIM: 0.8973
+Epoch [49/50] Loss: 0.0021;  Train SNR: 21.6264 Valid SNR: 21.2056;  Train PSNR: 27.9587 Valid PSNR: 27.7324;  Train SSIM: 0.9025 Valid SSIM: 0.8992
+Epoch [50/50] Loss: 0.0014;  Train SNR: 21.7361 Valid SNR: 21.3034;  Train PSNR: 28.0684 Valid PSNR: 27.8302;  Train SSIM: 0.9019 Valid SSIM: 0.8987
+
+Test:
+ SNR: 21.2288, PSNR: 27.9970, SSIM: 0.8972
+
+535
+Epoch [48/50] Loss: 0.0021;  Train SNR: 21.3423 Valid SNR: 20.9612;  Train PSNR: 27.6746 Valid PSNR: 27.4880;  Train SSIM: 0.9006 Valid SSIM: 0.8976
+Epoch [49/50] Loss: 0.0024;  Train SNR: 21.4848 Valid SNR: 21.0751;  Train PSNR: 27.8170 Valid PSNR: 27.6019;  Train SSIM: 0.9004 Valid SSIM: 0.8969
+Epoch [50/50] Loss: 0.0014;  Train SNR: 22.0658 Valid SNR: 21.6212;  Train PSNR: 28.3980 Valid PSNR: 28.1480;  Train SSIM: 0.9020 Valid SSIM: 0.8988
+
+Test:
+ SNR: 21.3350, PSNR: 28.1032, SSIM: 0.8983
